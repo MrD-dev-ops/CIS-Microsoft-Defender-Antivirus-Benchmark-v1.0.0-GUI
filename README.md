@@ -30,6 +30,9 @@ A professional, interactive Windows Forms PowerShell GUI designed to audit, mana
    ```powershell
    Set-ExecutionPolicy Bypass -Scope Process -Force
    .\Defender_AV_Compliance_GUI.ps1
+   
+## BEFORE - New Windows 11 Pro install with all Microsoft Updates installed as of 22OCT2026 (0% Compliance)
+![alt text](https://github.com/MrD-dev-ops/CIS-Microsoft-Defender-Antivirus-Benchmark-v1.0.0-GUI/blob/main/Before.png)
 
-## AFTER
-![alt text](https://github.com/MrD-dev-ops/CIS-Microsoft-Defender-Antivirus-Benchmark-v1.0.0-GUI/blob/main/Defender100.png)
+## AFTER (100% Compliance)
+![alt text](https://github.com/MrD-dev-ops/CIS-Microsoft-Defender-Antivirus-Benchmark-v1.0.0-GUI/blob/main/After.png)
