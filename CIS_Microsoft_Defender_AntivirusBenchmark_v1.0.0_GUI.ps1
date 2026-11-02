@@ -1,7 +1,6 @@
 #Run this script with elevated privileges (Run as Administrator) to ensure it can access and modify the necessary registry keys for compliance checks and remediation.
 #& { Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force }
 
-
 #Requires -RunAsAdministrator
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
