@@ -11,6 +11,7 @@ $script:BenchmarkReleaseDate = "02/20/2026"
 $script:isUpdatingGrid = $false
 
 # Ensure PolicyFileEditor module is available for local GPO .pol backing store persistence
+# https://github.com/dlwyatt/PolicyFileEditor
 if (-not (Get-Module -ListAvailable -Name PolicyFileEditor)) {
     try {
         [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
