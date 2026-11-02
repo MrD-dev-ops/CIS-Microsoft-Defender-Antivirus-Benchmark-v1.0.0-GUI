@@ -36,5 +36,5 @@ A professional, interactive Windows Forms PowerShell GUI designed to audit, mana
 ![alt text](https://github.com/MrD-dev-ops/CIS-Microsoft-Defender-Antivirus-Benchmark-v1.0.0-GUI/blob/main/Before.png)
 
 ## AFTER
-### (100% Compliance)
+### Click Enable All and 10 seconds later 100% Compliance with CIS Microsoft Defender Antivirus Compliance Benchmark
 ![alt text](https://github.com/MrD-dev-ops/CIS-Microsoft-Defender-Antivirus-Benchmark-v1.0.0-GUI/blob/main/After.png)
