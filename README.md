@@ -30,3 +30,6 @@ A professional, interactive Windows Forms PowerShell GUI designed to audit, mana
    ```powershell
    Set-ExecutionPolicy Bypass -Scope Process -Force
    .\Defender_AV_Compliance_GUI.ps1
+
+## AFTER
+![alt text](https://github.com/MrD-dev-ops/CIS-Microsoft-Defender-Antivirus-Benchmark-v1.0.0-GUI/blob/main/Defender100.png)
